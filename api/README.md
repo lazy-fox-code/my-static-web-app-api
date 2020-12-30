@@ -2,7 +2,7 @@
 
 This project is an Azure Functions app, that responds to GET, POST, PUT, and DELETE endpoints for products.
 
-## Prerequisites
+## Prerequisites 
 
 - A GitHub account
 - [Node.js and Git](https://nodejs.org/)
