@@ -32,7 +32,7 @@ export default {
 <template>
   <div>
     <div v-if="!products.length">
-      Loading data ...
+      `Loading·data·...`
     </div>
     <ul class="list">
       <li
